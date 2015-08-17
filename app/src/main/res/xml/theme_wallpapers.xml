@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item drawable="@drawable/wallpaper_01" />
+    <item drawable="@drawable/wallpaper_02" />
+    <item drawable="@drawable/fondo_guay" />
+</resources>

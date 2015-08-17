@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <!-- These sections below are for your "Previews" section -->
+    <!-- These names should match YOUR actual icon names
+    	 the names used below are just for sampling purposes -->
+
+    <!-- LATEST ICONS -->
+    <!-- All of your Latest icons listed here -->
+    <string-array name="latest">
+
+
+    </string-array>
+
+    <!-- SYSTEM ICONS -->
+    <!-- System icons listed here -->
+    <string-array name="system">
+
+
+
+        <item>browser_1</item>
+        <item>browser_2</item>
+        <item>browser_3</item>
+        <item>browser_4</item>
+        <item>browser_5</item>
+        <item>browser_6</item>
+        <item>browser_7</item>
+        <item>browser_8</item>
+        <item>browser_9</item>
+        <item>browser_10</item>
+        <item>browser_11</item>
+        <item>browser_12</item>
+
+        <item>calendar_1</item>
+        <item>calendar_2</item>
+        <item>calendar_3</item>
+        <item>calendar_4</item>
+        <item>calendar_5</item>
+        <item>calendar_6</item>
+        <item>calendar_7</item>
+        <item>calendar_8</item>
+        <item>calendar_9</item>
+        <item>calendar_10</item>
+
+        <item>calculator_1</item>
+        <item>calculator_2</item>
+        <item>calculator_3</item>
+        <item>calculator_4</item>
+        <item>calculator_5</item>
+        <item>calculator_6</item>
+        <item>calculator_7</item>
+        <item>calculator_8</item>
+        <item>calculator_9</item>
+        <item>calculator_10</item>
+        <item>calculator_11</item>
+        <item>calculator_12</item>
+
+        <item>clock_1</item>
+        <item>clock_2</item>
+        <item>clock_3</item>
+        <item>clock_4</item>
+        <item>clock_5</item>
+        <item>clock_6</item>
+        <item>clock_7</item>
+        <item>clock_8</item>
+        <item>clock_9</item>
+        <item>clock_10</item>
+        <item>clock_11</item>
+        <item>clock_12</item>
+        <item>clock_13</item>
+
+
+        <item>gallery_1</item>
+        <item>gallery_2</item>
+        <item>gallery_3</item>
+        <item>gallery_4</item>
+        <item>gallery_5</item>
+        <item>gallery_6</item>
+        <item>gallery_7</item>
+        <item>gallery_8</item>
+        <item>gallery_9</item>
+        <item>gallery_10</item>
+
+
+        <item>system_settings_1</item>
+        <item>system_settings_2</item>
+        <item>system_settings_3</item>
+        <item>system_settings_4</item>
+        <item>system_settings_5</item>
+        <item>system_settings_6</item>
+        <item>system_settings_7</item>
+        <item>system_settings_8</item>
+        <item>system_settings_9</item>
+        <item>system_settings_10</item>
+
+
+        <item>contacts_1</item>
+        <item>contacts_2</item>
+        <item>contacts_3</item>
+        <item>contacts_4</item>
+        <item>contacts_5</item>
+        <item>contacts_6</item>
+        <item>contacts_7</item>
+        <item>contacts_8</item>
+        <item>contacts_9</item>
+        <item>contacts_10</item>
+        <item>contacts_11</item>
+
+        <item>dialer_1</item>
+        <item>dialer_2</item>
+        <item>dialer_3</item>
+        <item>dialer_4</item>
+        <item>dialer_5</item>
+        <item>dialer_6</item>
+        <item>dialer_7</item>
+        <item>dialer_8</item>
+        <item>dialer_9</item>
+        <item>dialer_10</item>
+        <item>dialer_11</item>
+        <item>dialer_12</item>
+        <item>dialer_13</item>
+
+
+        <item>messaging_1</item>
+        <item>messaging_2</item>
+        <item>messaging_3</item>
+        <item>messaging_4</item>
+        <item>messaging_5</item>
+        <item>messaging_6</item>
+        <item>messaging_7</item>
+        <item>messaging_8</item>
+        <item>messaging_9</item>
+        <item>messaging_10</item>
+        <item>messaging_11</item>
+
+        <item>android_camera_1</item>
+        <item>android_camera_2</item>
+        <item>android_camera_3</item>
+        <item>android_camera_4</item>
+        <item>android_camera_5</item>
+        <item>android_camera_6</item>
+        <item>android_camera_7</item>
+        <item>android_camera_8</item>
+        <item>android_camera_9</item>
+        <item>android_camera_10</item>
+
+
+    </string-array>
+
+    <!-- GOOGLE APPS ICONS -->
+    <!-- Google Apps icons are listed here -->
+    <string-array name="google">
+
+        <item>google_photos_1</item>
+        <item>google_photos_2</item>
+        <item>google_photos_3</item>
+        <item>google_photos_4</item>
+        <item>google_photos_5</item>
+        <item>google_photos_6</item>
+        <item>google_photos_7</item>
+        <item>google_photos_8</item>
+        <item>google_photos_9</item>
+        <item>google_photos_10</item>
+        <item>google_photos_11</item>
+        <item>google_photos_12</item>
+        <item>google_photos_13</item>
+
+        <item>google_now_1</item>
+        <item>google_now_2</item>
+        <item>google_now_3</item>
+        <item>google_now_4</item>
+        <item>google_now_5</item>
+        <item>google_now_6</item>
+        <item>google_now_7</item>
+        <item>google_now_8</item>
+        <item>google_now_9</item>
+        <item>google_now_10</item>
+
+        <item>google_earth_1</item>
+        <item>google_earth_2</item>
+        <item>google_earth_3</item>
+        <item>google_earth_4</item>
+        <item>google_earth_5</item>
+        <item>google_earth_6</item>
+        <item>google_earth_7</item>
+        <item>google_earth_8</item>
+        <item>google_earth_9</item>
+        <item>google_earth_10</item>
+
+        <item>play_store_1</item>
+        <item>play_store_2</item>
+        <item>play_store_3</item>
+        <item>play_store_4</item>
+        <item>play_store_5</item>
+        <item>play_store_6</item>
+        <item>play_store_7</item>
+        <item>play_store_8</item>
+        <item>play_store_9</item>
+        <item>play_store_10</item>
+
+
+        <item>google_hangouts_1</item>
+        <item>google_hangouts_2</item>
+        <item>google_hangouts_3</item>
+        <item>google_hangouts_4</item>
+        <item>google_hangouts_5</item>
+        <item>google_hangouts_6</item>
+        <item>google_hangouts_7</item>
+        <item>google_hangouts_8</item>
+        <item>google_hangouts_9</item>
+        <item>google_hangouts_10</item>
+        <item>google_hangouts_11</item>
+        <item>google_hangouts_12</item>
+
+        <item>google_drive_1</item>
+        <item>google_drive_2</item>
+        <item>google_drive_3</item>
+        <item>google_drive_4</item>
+        <item>google_drive_5</item>
+        <item>google_drive_6</item>
+        <item>google_drive_7</item>
+        <item>google_drive_8</item>
+        <item>google_drive_9</item>
+        <item>google_drive_10</item>
+
+
+        <item>youtube_1</item>
+        <item>youtube_2</item>
+        <item>youtube_3</item>
+        <item>youtube_4</item>
+        <item>youtube_5</item>
+        <item>youtube_6</item>
+        <item>youtube_7</item>
+        <item>youtube_8</item>
+        <item>youtube_9</item>
+        <item>youtube_10</item>
+        <item>youtube_11</item>
+        <item>youtube_12</item>
+
+
+        <item>gmail_1</item>
+        <item>gmail_2</item>
+        <item>gmail_3</item>
+        <item>gmail_4</item>
+        <item>gmail_5</item>
+        <item>gmail_6</item>
+        <item>gmail_7</item>
+        <item>gmail_8</item>
+        <item>gmail_9</item>
+        <item>gmail_10</item>
+
+
+
+        <item>google_camera_1</item>
+        <item>google_camera_2</item>
+        <item>google_camera_3</item>
+        <item>google_camera_4</item>
+        <item>google_camera_5</item>
+        <item>google_camera_6</item>
+        <item>google_camera_7</item>
+        <item>google_camera_8</item>
+        <item>google_camera_9</item>
+        <item>google_camera_10</item>
+
+
+        <item>google_chrome_1</item>
+        <item>google_chrome_2</item>
+        <item>google_chrome_3</item>
+        <item>google_chrome_4</item>
+        <item>google_chrome_5</item>
+        <item>google_chrome_6</item>
+        <item>google_chrome_7</item>
+        <item>google_chrome_8</item>
+        <item>google_chrome_9</item>
+        <item>google_chrome_10</item>
+
+
+
+
+    </string-array>
+
+    <!-- GAMES ICONS -->
+    <!-- Game icons are listed here -->
+    <string-array name="games">
+        <item>fimbo</item>
+
+    </string-array>
+
+
+    <!-- ALL ICONS -->
+    <!-- All of your icons listed here -->
+    <string-array name="icon_pack" translatable="false">
+
+        <item>alium_lite</item>
+        <item>alium_pro</item>
+
+        <item>browser_1</item>
+        <item>browser_2</item>
+        <item>browser_3</item>
+        <item>browser_4</item>
+        <item>browser_5</item>
+        <item>browser_6</item>
+        <item>browser_7</item>
+        <item>browser_8</item>
+        <item>browser_9</item>
+        <item>browser_10</item>
+        <item>browser_11</item>
+        <item>browser_12</item>
+
+        <item>google_now_1</item>
+        <item>google_now_2</item>
+        <item>google_now_3</item>
+        <item>google_now_4</item>
+        <item>google_now_5</item>
+        <item>google_now_6</item>
+        <item>google_now_7</item>
+        <item>google_now_8</item>
+        <item>google_now_9</item>
+        <item>google_now_10</item>
+
+        <item>google_earth_1</item>
+        <item>google_earth_2</item>
+        <item>google_earth_3</item>
+        <item>google_earth_4</item>
+        <item>google_earth_5</item>
+        <item>google_earth_6</item>
+        <item>google_earth_7</item>
+        <item>google_earth_8</item>
+        <item>google_earth_9</item>
+        <item>google_earth_10</item>
+
+        <item>google_photos_1</item>
+        <item>google_photos_2</item>
+        <item>google_photos_3</item>
+        <item>google_photos_4</item>
+        <item>google_photos_5</item>
+        <item>google_photos_6</item>
+        <item>google_photos_7</item>
+        <item>google_photos_8</item>
+        <item>google_photos_9</item>
+        <item>google_photos_10</item>
+        <item>google_photos_11</item>
+        <item>google_photos_12</item>
+        <item>google_photos_13</item>
+
+        <item>calendar_1</item>
+        <item>calendar_2</item>
+        <item>calendar_3</item>
+        <item>calendar_4</item>
+        <item>calendar_5</item>
+        <item>calendar_6</item>
+        <item>calendar_7</item>
+        <item>calendar_8</item>
+        <item>calendar_9</item>
+        <item>calendar_10</item>
+
+
+        <item>calculator_1</item>
+        <item>calculator_2</item>
+        <item>calculator_3</item>
+        <item>calculator_4</item>
+        <item>calculator_5</item>
+        <item>calculator_6</item>
+        <item>calculator_7</item>
+        <item>calculator_8</item>
+        <item>calculator_9</item>
+        <item>calculator_10</item>
+        <item>calculator_11</item>
+        <item>calculator_12</item>
+
+        <item>clock_1</item>
+        <item>clock_2</item>
+        <item>clock_3</item>
+        <item>clock_4</item>
+        <item>clock_5</item>
+        <item>clock_6</item>
+        <item>clock_7</item>
+        <item>clock_8</item>
+        <item>clock_9</item>
+        <item>clock_10</item>
+        <item>clock_11</item>
+        <item>clock_12</item>
+        <item>clock_13</item>
+
+        <item>gallery_1</item>
+        <item>gallery_2</item>
+        <item>gallery_3</item>
+        <item>gallery_4</item>
+        <item>gallery_5</item>
+        <item>gallery_6</item>
+        <item>gallery_7</item>
+        <item>gallery_8</item>
+        <item>gallery_9</item>
+        <item>gallery_10</item>
+
+        <item>system_settings_1</item>
+        <item>system_settings_2</item>
+        <item>system_settings_3</item>
+        <item>system_settings_4</item>
+        <item>system_settings_5</item>
+        <item>system_settings_6</item>
+        <item>system_settings_7</item>
+        <item>system_settings_8</item>
+        <item>system_settings_9</item>
+        <item>system_settings_10</item>
+
+
+        <item>contacts_1</item>
+        <item>contacts_2</item>
+        <item>contacts_3</item>
+        <item>contacts_4</item>
+        <item>contacts_5</item>
+        <item>contacts_6</item>
+        <item>contacts_7</item>
+        <item>contacts_8</item>
+        <item>contacts_9</item>
+        <item>contacts_10</item>
+        <item>contacts_11</item>
+
+        <item>dialer_1</item>
+        <item>dialer_2</item>
+        <item>dialer_3</item>
+        <item>dialer_4</item>
+        <item>dialer_5</item>
+        <item>dialer_6</item>
+        <item>dialer_7</item>
+        <item>dialer_8</item>
+        <item>dialer_9</item>
+        <item>dialer_10</item>
+        <item>dialer_11</item>
+        <item>dialer_12</item>
+        <item>dialer_13</item>
+
+
+        <item>messaging_1</item>
+        <item>messaging_2</item>
+        <item>messaging_3</item>
+        <item>messaging_4</item>
+        <item>messaging_5</item>
+        <item>messaging_6</item>
+        <item>messaging_7</item>
+        <item>messaging_8</item>
+        <item>messaging_9</item>
+        <item>messaging_10</item>
+        <item>messaging_11</item>
+
+        <item>android_camera_1</item>
+        <item>android_camera_2</item>
+        <item>android_camera_3</item>
+        <item>android_camera_4</item>
+        <item>android_camera_5</item>
+        <item>android_camera_6</item>
+        <item>android_camera_7</item>
+        <item>android_camera_8</item>
+        <item>android_camera_9</item>
+        <item>android_camera_10</item>
+
+        <item>telegram_1</item>
+        <item>telegram_2</item>
+        <item>telegram_3</item>
+        <item>telegram_4</item>
+        <item>telegram_5</item>
+        <item>telegram_6</item>
+        <item>telegram_7</item>
+        <item>telegram_8</item>
+        <item>telegram_9</item>
+        <item>telegram_10</item>
+        <item>telegram_11</item>
+        <item>telegram_12</item>
+
+
+
+
+        <item>instagram_1</item>
+        <item>instagram_2</item>
+        <item>instagram_3</item>
+        <item>instagram_4</item>
+        <item>instagram_5</item>
+        <item>instagram_6</item>
+        <item>instagram_7</item>
+        <item>instagram_8</item>
+        <item>instagram_9</item>
+        <item>instagram_10</item>
+
+
+        <item>vine_1</item>
+        <item>vine_2</item>
+        <item>vine_3</item>
+        <item>vine_4</item>
+        <item>vine_5</item>
+        <item>vine_6</item>
+        <item>vine_7</item>
+        <item>vine_8</item>
+        <item>vine_9</item>
+        <item>vine_10</item>
+        <item>vine_11</item>
+        <item>vine_12</item>
+        <item>vine_13</item>
+
+
+
+        <item>play_store_1</item>
+        <item>play_store_2</item>
+        <item>play_store_3</item>
+        <item>play_store_4</item>
+        <item>play_store_5</item>
+        <item>play_store_6</item>
+        <item>play_store_7</item>
+        <item>play_store_8</item>
+        <item>play_store_9</item>
+        <item>play_store_10</item>
+
+        <item>google_hangouts_1</item>
+        <item>google_hangouts_2</item>
+        <item>google_hangouts_3</item>
+        <item>google_hangouts_4</item>
+        <item>google_hangouts_5</item>
+        <item>google_hangouts_6</item>
+        <item>google_hangouts_7</item>
+        <item>google_hangouts_8</item>
+        <item>google_hangouts_9</item>
+        <item>google_hangouts_10</item>
+        <item>google_hangouts_11</item>
+        <item>google_hangouts_12</item>
+
+        <item>google_drive_1</item>
+        <item>google_drive_2</item>
+        <item>google_drive_3</item>
+        <item>google_drive_4</item>
+        <item>google_drive_5</item>
+        <item>google_drive_6</item>
+        <item>google_drive_7</item>
+        <item>google_drive_8</item>
+        <item>google_drive_9</item>
+        <item>google_drive_10</item>
+
+
+        <item>twitter_1</item>
+        <item>twitter_2</item>
+        <item>twitter_3</item>
+        <item>twitter_4</item>
+        <item>twitter_5</item>
+        <item>twitter_6</item>
+        <item>twitter_7</item>
+        <item>twitter_8</item>
+        <item>twitter_9</item>
+        <item>twitter_10</item>
+        <item>twitter_11</item>
+
+        <item>whatsapp_1</item>
+        <item>whatsapp_2</item>
+        <item>whatsapp_3</item>
+        <item>whatsapp_4</item>
+        <item>whatsapp_5</item>
+        <item>whatsapp_6</item>
+        <item>whatsapp_7</item>
+        <item>whatsapp_8</item>
+        <item>whatsapp_9</item>
+        <item>whatsapp_10</item>
+        <item>whatsapp_11</item>
+
+
+
+        <item>snapchat_1</item>
+        <item>snapchat_2</item>
+        <item>snapchat_3</item>
+        <item>snapchat_4</item>
+        <item>snapchat_5</item>
+        <item>snapchat_6</item>
+        <item>snapchat_7</item>
+        <item>snapchat_8</item>
+        <item>snapchat_9</item>
+        <item>snapchat_10</item>
+
+        <item>youtube_1</item>
+        <item>youtube_2</item>
+        <item>youtube_3</item>
+        <item>youtube_4</item>
+        <item>youtube_5</item>
+        <item>youtube_6</item>
+        <item>youtube_7</item>
+        <item>youtube_8</item>
+        <item>youtube_9</item>
+        <item>youtube_10</item>
+        <item>youtube_11</item>
+        <item>youtube_12</item>
+
+
+
+        <item>gmail_1</item>
+        <item>gmail_2</item>
+        <item>gmail_3</item>
+        <item>gmail_4</item>
+        <item>gmail_5</item>
+        <item>gmail_6</item>
+        <item>gmail_7</item>
+        <item>gmail_8</item>
+        <item>gmail_9</item>
+        <item>gmail_10</item>
+
+        <item>google_camera_1</item>
+        <item>google_camera_2</item>
+        <item>google_camera_3</item>
+        <item>google_camera_4</item>
+        <item>google_camera_5</item>
+        <item>google_camera_6</item>
+        <item>google_camera_7</item>
+        <item>google_camera_8</item>
+        <item>google_camera_9</item>
+        <item>google_camera_10</item>
+
+        <item>google_chrome_1</item>
+        <item>google_chrome_2</item>
+        <item>google_chrome_3</item>
+        <item>google_chrome_4</item>
+        <item>google_chrome_5</item>
+        <item>google_chrome_6</item>
+        <item>google_chrome_7</item>
+        <item>google_chrome_8</item>
+        <item>google_chrome_9</item>
+        <item>google_chrome_10</item>
+
+        <item>facebook_messenger_1</item>
+        <item>facebook_messenger_2</item>
+        <item>facebook_messenger_3</item>
+        <item>facebook_messenger_4</item>
+        <item>facebook_messenger_5</item>
+        <item>facebook_messenger_6</item>
+        <item>facebook_messenger_7</item>
+        <item>facebook_messenger_8</item>
+        <item>facebook_messenger_9</item>
+        <item>facebook_messenger_10</item>
+        <item>facebook_messenger_11</item>
+        <item>facebook_messenger_12</item>
+
+
+
+        <item>facebook_1</item>
+        <item>facebook_2</item>
+        <item>facebook_3</item>
+        <item>facebook_4</item>
+        <item>facebook_5</item>
+        <item>facebook_6</item>
+        <item>facebook_7</item>
+        <item>facebook_8</item>
+        <item>facebook_9</item>
+        <item>facebook_10</item>
+
+    </string-array>
+
+    <string-array name="drawer">
+        <item>drawer</item>
+        <item>drawer_a</item>
+        <item>drawer_b</item>
+        <item>drawer_c</item>
+    </string-array>
+
+</resources>

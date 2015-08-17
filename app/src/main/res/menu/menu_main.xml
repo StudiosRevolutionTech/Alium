@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.jahirfiquitiva.paperboard.activities.MainActivity">
+    <item
+        android:id="@+id/share"
+        android:orderInCategory="100"
+        android:title="@string/share"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/sendemail"
+        android:orderInCategory="200"
+        android:title="@string/sendemail"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/changelog"
+        android:orderInCategory="300"
+        android:title="@string/changelog"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/buy_pro"
+        android:orderInCategory="400"
+        android:title="@string/Version_Pro"
+        app:showAsAction="never" />
+
+
+
+    <item android:id="@+id/calificar"
+          android:title="calificar"
+          android:icon="@drawable/ic_check"
+          app:showAsAction="always" />
+</menu>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme>
+    <version>1.0</version>
+    <themeName>Alium Lite - Icon Pack</themeName>
+    <themeInfo>Alium is a wonderful Icon Pack based in
+        Material Design that is the latest style designed by Google for Android.
+        \n
+        \nIt contains Flat icons with a style of Material Desing and Long Shadows that work very well with enough Custom Launchers. </themeInfo>
+    <preview img1="preview1" />
+    <preview img2="preview2" />
+</theme>

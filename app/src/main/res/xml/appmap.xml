@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<appmap>
+
+    <!-- Chrome & Chrome Beta -->
+    <item
+        name="google_chrome_1"
+        class="com.google.android.apps.chrome.Main" />
+
+      <!-- Gmail -->
+     <item class="com.google.android.gm.ConversationListActivityGmail"
+         name="gmail_1" />
+
+    <!-- WhatsApp-->
+    <item class="com.whatsapp.Main"
+        name="whatsapp_1"/>
+
+    <!-- Facebook -->
+    <item class="com.facebook.katana.LoginActivity"
+        name="facebook_1" />
+
+    <!-- Youtube -->
+    <item class="com.google.android.youtube.HomeActivity" name="youtube_1" />
+    <item class="com.google.android.youtube.app.honeycomb.Shell$HomeActivity" name="youtube_1" />
+    <item class="com.google.android.youtube.HomePage" name="youtube_1" />
+
+
+    <!-- Google Hangouts -->
+    <item class="com.google.android.talk.SigningInActivity"
+        name="google_hangouts_1" />
+
+
+
+    <!-- Google Drive -->
+    <item name="google_drive_1"
+        class="com.google.android.apps.docs.app.NewMainProxyActivity" />
+
+    <!-- Facebook Messenger -->
+    <item class="com.facebook.orca.auth.StartScreenActivity"
+          name="facebook_messenger_6" />
+
+    <!-- Snapchat-->
+    <item class="com.snapchat.android.LandingPageActivity"
+          name="snapchat_1" />
+
+    <!-- Twitter-->
+    <item class="com.twitter.android.StartActivity"
+          name="twitter_1" />
+
+    <!-- Google Camera -->
+    <item class="com.android.camera.CameraLauncher"
+        name="google_camera_1" />
+
+    <!-- Vine -->
+    <item class="co.vine.android.StartActivity"
+        name="vine_1" />
+
+    <!-- Play Store -->
+    <item class="com.android.vending.AssetBrowserActivity"
+        name="play_store_1" />
+
+    <!-- Instagram -->
+    <item  class="com.instagram.android.activity.MainTabActivity"
+           name="instagram_1" />
+
+    <!-- Camera -->
+    <item class="com.android.camera.CameraEntry" name="android_camera_1"/>
+
+    <item class="com.sec.android.app.camera.Camera" name="android_camera_1"/>
+    <item class="com.android.camera.Camera" name="android_camera_1"/>
+    <item class="com.android.camera.Camera" name="android_camera_1"/>
+    <item class="com.sonyericsson.android.camera.CameraActivity" name="android_camera_1"/>
+
+    <item class="com.lge.camera.CameraAppLauncher" name="android_camera_1" />
+    <item class="com.android.camera.camera" name="android_camera_1" />
+    <item class="com.android.camera.Camera" name="android_camera_1" />
+    <item class="com.android.camera.CameraEntry" name="android_camera_1" />
+    <item class="com.android.camera.ArcCamera" name="android_camera_1" />
+    <item class="com.android.lgecamera.CameraLoading" name="android_camera_1" />
+    <item class="com.android.camera.Camera" name="android_camera_1" />
+    <item class="com.lge.camera.CameraApp" name="android_camera_1" />
+    <item class="com.lge.camera.CamLoading" name="android_camera_1" />
+    <item class="com.miui.camera.Camera" name="android_camera_1" />
+    <item class="com.motorola.Camera.Camera" name="android_camera_1" />
+    <item class="com.motorola.camera.Camera" name="android_camera_1" />
+    <item class="com.pantech.app.camera.Camera" name="android_camera_1" />
+    <item class="com.pantech.app.skycamera.Camera" name="android_camera_1" />
+    <item class="com.sec.android.app.camera.Camera" name="android_camera_1" />
+    <item class="com.sonyericsson.camera.photo.Camera" name="android_camera_1" />
+    <item class="com.sonyericsson.android.camera.CameraActivity" name="android_camera_1" />
+    <item class="com.lge.camera.CameraAppLauncher" name="android_camera_1" />
+
+    <item class="com.android.camera.CameraActivity" name="android_camera_1" />
+
+    <item class="com.htc.camera.CameraEntry" name="android_camera_1" />
+
+
+    <!-- Alium -->
+    <item class="com.studiosrevtech.alium.Main" name="alium_lite" />
+
+    <!-- Alium Pro-->
+    <item class="com.studiosrevtech.aliumpro.Main" name="alium_pro" />
+
+    <!-- Messaging -->
+    <item class="com.android.mms.ui.BootActivity" name="messaging_1"  />
+
+    <!-- Dialer -->
+    <item class="com.android.dialer.DialtactsActivity" name="dialer_1" />
+
+    <!-- Browser -->
+    <item class="com.android.browser.BrowserActivity" name="browser_5" />
+
+    <!--Contats-->
+    <item class="com.android.contacts.activities.PeopleActivity" name="contacts_1" />
+
+    <!--System Settings -->
+    <item class="com.android.settings.Settings" name="system_settings_1" />
+
+    <!-- Gallery -->
+    <item class="com.android.gallery3d.app.GalleryActivity" name="gallery_1" />
+
+    <!-- Telegram -->
+    <item class="org.telegram.ui.LaunchActivity" name="telegram_1" />
+    <item class="org.telegram.android.StartActivity" name="telegram_1" />
+
+    <!-- Calculator -->
+    <item class="com.android.calculator2.Calculator" name="calculator_6"/>
+    <item class="com.sec.android.app.calculator.Calculator" name="calculator_6"/>
+
+    <!-- Clock -->
+    <item class="com.android.alarmclock.AlarmClock" name="clock_7"/>
+    <item class="com.htc.android.worldclock.WorldClockTabControl" name="clock_7"/>
+    <item class="com.sec.android.app.clockpackage.ClockPackage" name="clock_7"/>
+    <item class="com.android.deskclock.DeskClock" name="clock_7"/>
+    <item class="com.android.deskclock.DeskClock" name="clock_7"/>
+    <item class="com.motorola.blur.alarmclock.AlarmClock" name="clock_7"/>
+    <item class="com.android.deskclock.AlarmClock" name="clock_7" />
+    <item class="com.android.deskclock.DeskClockGroupActivity" name="clock_7" />
+    <item class="com.android.deskclock.DeskClockTabActivity" name="clock_7" />
+    <item class="com.android.deskclock.TabDetails" name="clock_7" />
+    <item class="com.android.deskclock.DeskClock}" name="clock_7" />
+    <item class="com.htc.android.worldclock.NightClock" name="clock_7" />
+    <item class="com.lge.clock.Clock" name="clock_7" />
+    <item class="com.sonyericsson.organizer.Organizer" name="clock_7" />
+    <item class="com.htc.android.worldclock.WorldClockTabControl" name="clock_7" />
+
+    <!-- Google Photos -->
+    <item class="com.google.android.apps.photos.home.HomeActivity" name="google_photos_1" />
+
+    <!-- Calendar -->
+    <item class="com.android.calendar.AllInOneActivity" name="calendar_1" />
+
+    <!-- GOOGLE EARTH -->
+    <item class="com.google.earth.EarthActivity" name="google_earth_1" />
+
+    <!-- Google Search -->
+    <item class="com.google.android.googlequicksearchbox.SearchActivity}" name="google_now_1"/>
+
+
+
+
+</appmap>

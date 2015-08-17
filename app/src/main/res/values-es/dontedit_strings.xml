@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <!-- List Of Drawer Sections -->
+    <string name="section_one">Home</string>
+    <string name="section_two">Icons</string>
+    <string name="section_three">Apply</string>
+    <string name="section_four">Wallpapers</string>
+    <string name="section_five">Icon Request</string>
+    <string name="section_six">About The App</string>
+
+    <!-- Wallpapers Activity -->
+    <string name="title_activity_detailed_wallpaper">Fondo de pantalla detallado</string>
+    <string name="title_ab_detailed_wallpaper" />
+
+    <!-- Muzei Stuff -->
+    <string name="muzeisets_title">Resfrescar cada:</string>
+    <string name="minutes">Minutos</string>
+    <string name="hours">Horas</string>
+    <string name="muzei_info">Alerta: Estos ajustes pueden afectar el tiempo de actualización de los Fondos de Pantalla.</string>
+    <string name="justshare">Compartir</string>
+
+    <!-- Strings for Dropdown Menu & Requests -->
+    <string name="share">Compartir tema</string>
+    <string name="share_title">Compartir vía</string>
+    <string name="send_title">Enviar vía</string>
+    <string name="rate">Calificar tema</string>
+    <string name="sendemail">Email del Desarrollador</string>
+    <string name="changelog">Ver la lista de cambios</string>
+
+    <!-- Sharing theme -->
+    <string name="share_one">"Chekea este sorprendente icon pack de "</string>
+    <string name="share_two">.\nObtenerlo en </string>
+
+    <!-- LauncherNotInstalled Dialog -->
+    <string name="lni_title">" No Instalado"</string>
+    <string name="lni_content">" Actualmente no esta istalado en tu dispositivo.\n¿te gustaría instalarla de la Play Store?"</string>
+    <string name="cm_dialog_content">" es parte de CyanogenMod roms.\n¿Te gustaría descargarla en tu dispositivo?"</string>
+    <string name="gnl_title">Google Now Launcher no es compatible</string>
+    <string name="gnl_content">Google Now Launcher NO es compatible con ningun Icon Pack. Por favor no nos des una calificación baja por esta razon. Hay una solución que puedes probar, y es el usu de una Aplicación externa que te permitira aplicar los iconos. ¿Te gustaría descargarla?</string>
+    <string name="extraapp">com.momocode.shortcuts</string>
+    <string name="lni_yes">Si</string>
+    <string name="lni_no">No</string>
+    <string name="updateninelauncher">Por favor actualize Nine Launcher a su ultima versión</string>
+
+    <string name="installed">Instalado</string>
+    <string name="noninstalled">No instalado</string>
+
+    <!-- Changelog Dialog Content -->
+    <string name="changelog_dialog_title">Lista de Cambios</string>
+    <string name="nice">Genial</string>
+
+    <!-- Wallpapers Stuff -->
+    <string name="no_conn_title">Sin conexíon</string>
+    <string name="no_conn_content">Los fondos de pantalla esta alojados en un Servidor en la Nube. Por favor conextate a internet e intentalo de nuevo.</string>
+    <string name="download">DESCARGAR</string>
+    <string name="download_done">Descarga completada satifactoriamete, Fotografia esta localizada en </string>
+    <string name="apply">Aplicar</string>
+    <string name="set_as">Recortar la fotografía y establecer como…</string>
+    <string name="set_wall_title">Fondo de pantalla puesto</string>
+    <string name="set_wall_content">Please, choose an option. Would you like to crop the picture? Or do you prefer to set it in its actual size?</string>
+    <string name="crop_wall">Recortar fondo de pantalla</string>
+    <string name="set_it">Establecer ahora!</string>
+    <string name="save">Guardar</string>
+    <string name="done">Hecho!</string>
+    <string name="progress_dialog_title">Descargando fondo de pantalla</string>
+    <string name="setting_wall_title">Setting pic as wallpaper</string>
+    <string name="please_wait">Espere por favor…</string>
+    <string name="set_as_wall_done">Fotografía establecida como fondo de pantalla satisfactoriamente, Ve a inicio y mirala.</string>
+    <string name="error">Error</string>
+    <string name="wall_error">Disculpa, la acción previa no pudo ser aplicada, al parecer no hay fotografias. Revisa tu conexión de internet e intentalo de nuevo.</string>
+    <string name="json_error_toast">Error while downloading wallpapers info. Try again later.</string>
+
+
+    <!-- Some texts for Dialogs and Cards -->
+    <string name="close">Cerrar</string>
+    <string name="advice">Aviso</string>
+    <string name="dontshow">No mostrar de nuevo</string>
+    <string name="play">PLAY STORE</string>
+    <string name="web">SITIO WEB</string>
+    <string name="gplus">GOOGLE+</string>
+    <string name="ratebtn">CALIFICAR</string>
+
+
+
+</resources>

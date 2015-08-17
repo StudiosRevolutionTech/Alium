@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <version>1</version>
+
+    <!-- <category title="A" /> -->
+
+    <category title="Alium" />
+    <item drawable="alium_lite" />
+    <item drawable="alium_pro" />
+
+    <category title="Browser" />
+    <item drawable="browser_1" />
+    <item drawable="browser_2" />
+    <item drawable="browser_3" />
+    <item drawable="browser_4" />
+    <item drawable="browser_5" />
+    <item drawable="browser_6" />
+    <item drawable="browser_7" />
+    <item drawable="browser_8" />
+    <item drawable="browser_9" />
+    <item drawable="browser_10" />
+    <item drawable="browser_11" />
+    <item drawable="browser_12" />
+
+   <category title="Clock" />
+    <item drawable="clock_1" />
+    <item drawable="clock_2" />
+    <item drawable="clock_3" />
+    <item drawable="clock_4" />
+    <item drawable="clock_5" />
+    <item drawable="clock_6" />
+    <item drawable="clock_7" />
+    <item drawable="clock_8" />
+    <item drawable="clock_9" />
+    <item drawable="clock_10" />
+    <item drawable="clock_11" />
+    <item drawable="clock_12" />
+    <item drawable="clock_13" />
+
+    <category title="Calculator" />
+    <item drawable="calculator_1" />
+    <item drawable="calculator_2" />
+    <item drawable="calculator_3" />
+    <item drawable="calculator_4" />
+    <item drawable="calculator_5" />
+    <item drawable="calculator_6" />
+    <item drawable="calculator_7" />
+    <item drawable="calculator_8" />
+    <item drawable="calculator_9" />
+    <item drawable="calculator_10" />
+    <item drawable="calculator_11" />
+    <item drawable="calculator_12" />
+
+     <category title="Gallery" />
+    <item drawable="gallery_1" />
+    <item drawable="gallery_2" />
+    <item drawable="gallery_3" />
+    <item drawable="gallery_4" />
+    <item drawable="gallery_5" />
+    <item drawable="gallery_6" />
+    <item drawable="gallery_7" />
+    <item drawable="gallery_8" />
+    <item drawable="gallery_9" />
+    <item drawable="gallery_10" />
+
+    <category title="Calendar_1" />
+    <item drawable="calendar_1" />
+    <item drawable="calendar_2" />
+    <item drawable="calendar_3" />
+    <item drawable="calendar_4" />
+    <item drawable="calendar_5" />
+    <item drawable="calendar_6" />
+    <item drawable="calendar_7" />
+    <item drawable="calendar_8" />
+    <item drawable="calendar_9" />
+    <item drawable="calendar_10" />
+
+    <category title="Google Now" />
+    <item drawable="google_now_1" />
+    <item drawable="google_now_2" />
+    <item drawable="google_now_3" />
+    <item drawable="google_now_4" />
+    <item drawable="google_now_5" />
+    <item drawable="google_now_6" />
+    <item drawable="google_now_7" />
+    <item drawable="google_now_8" />
+    <item drawable="google_now_9" />
+    <item drawable="google_now_10" />
+
+    <category title="Google Earth" />
+    <item drawable="google_earth_1" />
+    <item drawable="google_earth_2" />
+    <item drawable="google_earth_3" />
+    <item drawable="google_earth_4" />
+    <item drawable="google_earth_5" />
+    <item drawable="google_earth_6" />
+    <item drawable="google_earth_7" />
+    <item drawable="google_earth_8" />
+    <item drawable="google_earth_9" />
+    <item drawable="google_earth_10" />
+
+
+
+     <category title="System Setting" />
+    <item drawable="system_settings_1" />
+    <item drawable="system_settings_2" />
+    <item drawable="system_settings_3" />
+    <item drawable="system_settings_4" />
+    <item drawable="system_settings_5" />
+    <item drawable="system_settings_6" />
+    <item drawable="system_settings_7" />
+    <item drawable="system_settings_8" />
+    <item drawable="system_settings_9" />
+    <item drawable="system_settings_10" />
+
+
+    <category title="Contatcs" />
+    <item drawable="contacts_1" />
+    <item drawable="contacts_2" />
+    <item drawable="contacts_3" />
+    <item drawable="contacts_4" />
+    <item drawable="contacts_5" />
+    <item drawable="contacts_6" />
+    <item drawable="contacts_7" />
+    <item drawable="contacts_8" />
+    <item drawable="contacts_9" />
+    <item drawable="contacts_10" />
+    <item drawable="contacts_11" />
+
+
+    <category title="Dialer" />
+    <item drawable="dialer_1" />
+    <item drawable="dialer_2" />
+    <item drawable="dialer_3" />
+    <item drawable="dialer_4" />
+    <item drawable="dialer_5" />
+    <item drawable="dialer_6" />
+    <item drawable="dialer_7" />
+    <item drawable="dialer_8" />
+    <item drawable="dialer_9" />
+    <item drawable="dialer_10" />
+    <item drawable="dialer_11" />
+    <item drawable="dialer_12" />
+    <item drawable="dialer_13" />
+
+
+    <category title="Messaging" />
+    <item drawable="messaging_1" />
+    <item drawable="messaging_2" />
+    <item drawable="messaging_3" />
+    <item drawable="messaging_4" />
+    <item drawable="messaging_5" />
+    <item drawable="messaging_6" />
+    <item drawable="messaging_7" />
+    <item drawable="messaging_8" />
+    <item drawable="messaging_9" />
+    <item drawable="messaging_10" />
+    <item drawable="messaging_11" />
+
+
+
+    <category title="Android Camera" />
+    <item drawable="android_camera_1" />
+    <item drawable="android_camera_2" />
+    <item drawable="android_camera_3" />
+    <item drawable="android_camera_4" />
+    <item drawable="android_camera_5" />
+    <item drawable="android_camera_6" />
+    <item drawable="android_camera_7" />
+    <item drawable="android_camera_8" />
+    <item drawable="android_camera_9" />
+    <item drawable="android_camera_10" />
+
+    <category title="Google Photos" />
+    <item drawable="google_photos_1" />
+    <item drawable="google_photos_2" />
+    <item drawable="google_photos_3" />
+    <item drawable="google_photos_4" />
+    <item drawable="google_photos_5" />
+    <item drawable="google_photos_6" />
+    <item drawable="google_photos_7" />
+    <item drawable="google_photos_8" />
+    <item drawable="google_photos_9" />
+    <item drawable="google_photos_10" />
+    <item drawable="google_photos_11" />
+    <item drawable="google_photos_12" />
+    <item drawable="google_photos_13" />
+
+    <category title="Telegram" />
+    <item drawable="telegram_1" />
+    <item drawable="telegram_2" />
+    <item drawable="telegram_3" />
+    <item drawable="telegram_4" />
+    <item drawable="telegram_5" />
+    <item drawable="telegram_6" />
+    <item drawable="telegram_7" />
+    <item drawable="telegram_8" />
+    <item drawable="telegram_9" />
+    <item drawable="telegram_10" />
+    <item drawable="telegram_11" />
+    <item drawable="telegram_12" />
+
+
+
+    <category title="Instagram" />
+    <item drawable="instagram_1" />
+    <item drawable="instagram_2" />
+    <item drawable="instagram_3" />
+    <item drawable="instagram_4" />
+    <item drawable="instagram_5" />
+    <item drawable="instagram_6" />
+    <item drawable="instagram_7" />
+    <item drawable="instagram_8" />
+    <item drawable="instagram_9" />
+    <item drawable="instagram_10" />
+
+
+    <category title="Play Store" />
+    <item drawable="play_store_1" />
+    <item drawable="play_store_2" />
+    <item drawable="play_store_3" />
+    <item drawable="play_store_4" />
+    <item drawable="play_store_5" />
+    <item drawable="play_store_6" />
+    <item drawable="play_store_7" />
+    <item drawable="play_store_8" />
+    <item drawable="play_store_9" />
+    <item drawable="play_store_10" />
+
+
+    <category title="Vine" />
+    <item drawable="vine_1" />
+    <item drawable="vine_2" />
+    <item drawable="vine_3" />
+    <item drawable="vine_4" />
+    <item drawable="vine_5" />
+    <item drawable="vine_6" />
+    <item drawable="vine_7" />
+    <item drawable="vine_8" />
+    <item drawable="vine_9" />
+    <item drawable="vine_10" />
+    <item drawable="vine_11" />
+    <item drawable="vine_12" />
+    <item drawable="vine_13" />
+
+
+
+    <category title="Gmail" />
+    <item drawable="gmail_1" />
+    <item drawable="gmail_2" />
+    <item drawable="gmail_3" />
+    <item drawable="gmail_4" />
+    <item drawable="gmail_5" />
+    <item drawable="gmail_6" />
+    <item drawable="gmail_7" />
+    <item drawable="gmail_8" />
+    <item drawable="gmail_9" />
+    <item drawable="gmail_10" />
+
+    <category title="SnapChat" />
+    <item drawable="snapchat_1" />
+    <item drawable="snapchat_2" />
+    <item drawable="snapchat_3" />
+    <item drawable="snapchat_4" />
+    <item drawable="snapchat_5" />
+    <item drawable="snapchat_6" />
+    <item drawable="snapchat_7" />
+    <item drawable="snapchat_8" />
+    <item drawable="snapchat_9" />
+    <item drawable="snapchat_10" />
+
+
+    <category title="Twiiter"  />
+    <item drawable="twitter_1" />
+    <item drawable="twitter_2" />
+    <item drawable="twitter_3" />
+    <item drawable="twitter_4" />
+    <item drawable="twitter_5" />
+    <item drawable="twitter_6" />
+    <item drawable="twitter_7" />
+    <item drawable="twitter_8" />
+    <item drawable="twitter_9" />
+    <item drawable="twitter_10" />
+    <item drawable="twitter_11" />
+
+    <category title="Google Hangouts" />
+    <item drawable="google_hangouts_1" />
+    <item drawable="google_hangouts_2" />
+    <item drawable="google_hangouts_3" />
+    <item drawable="google_hangouts_4" />
+    <item drawable="google_hangouts_5" />
+    <item drawable="google_hangouts_6" />
+    <item drawable="google_hangouts_7" />
+    <item drawable="google_hangouts_8" />
+    <item drawable="google_hangouts_9" />
+    <item drawable="google_hangouts_10" />
+    <item drawable="google_hangouts_11" />
+    <item drawable="google_hangouts_12" />
+
+
+    <category title="Google Drive" />
+    <item drawable="google_drive_1" />
+    <item drawable="google_drive_2" />
+    <item drawable="google_drive_3" />
+    <item drawable="google_drive_4" />
+    <item drawable="google_drive_5" />
+    <item drawable="google_drive_6" />
+    <item drawable="google_drive_7" />
+    <item drawable="google_drive_8" />
+    <item drawable="google_drive_9" />
+    <item drawable="google_drive_10" />
+
+
+
+    <category title="Facebook"/>
+    <item drawable="facebook_1"/>
+    <item drawable="facebook_2"/>
+    <item drawable="facebook_3"/>
+    <item drawable="facebook_4"/>
+    <item drawable="facebook_5"/>
+    <item drawable="facebook_6"/>
+    <item drawable="facebook_7"/>
+    <item drawable="facebook_8"/>
+    <item drawable="facebook_9"/>
+    <item drawable="facebook_10"/>
+
+    <category title="WhatsApp"/>
+    <item drawable="whatsapp_1"/>
+    <item drawable="whatsapp_2"/>
+    <item drawable="whatsapp_3"/>
+    <item drawable="whatsapp_4"/>
+    <item drawable="whatsapp_5"/>
+    <item drawable="whatsapp_6"/>
+    <item drawable="whatsapp_7"/>
+    <item drawable="whatsapp_8"/>
+    <item drawable="whatsapp_9"/>
+    <item drawable="whatsapp_10"/>
+    <item drawable="whatsapp_11"/>
+
+    <category title="Facebook Messenger" />
+    <item drawable="facebook_messenger_1"/>
+    <item drawable="facebook_messenger_2"/>
+    <item drawable="facebook_messenger_3"/>
+    <item drawable="facebook_messenger_4"/>
+    <item drawable="facebook_messenger_5"/>
+    <item drawable="facebook_messenger_6"/>
+    <item drawable="facebook_messenger_7"/>
+    <item drawable="facebook_messenger_8"/>
+    <item drawable="facebook_messenger_9"/>
+    <item drawable="facebook_messenger_10"/>
+    <item drawable="facebook_messenger_11"/>
+    <item drawable="facebook_messenger_12"/>
+
+    <category title="Google Camera" />
+    <item drawable="google_camera_1" />
+    <item drawable="google_camera_2" />
+    <item drawable="google_camera_3" />
+    <item drawable="google_camera_4" />
+    <item drawable="google_camera_5" />
+    <item drawable="google_camera_6" />
+    <item drawable="google_camera_7" />
+    <item drawable="google_camera_8" />
+    <item drawable="google_camera_9" />
+    <item drawable="google_camera_10" />
+
+    <category title="Google Chrome" />
+    <item drawable="google_chrome_1" />
+    <item drawable="google_chrome_2" />
+    <item drawable="google_chrome_3" />
+    <item drawable="google_chrome_4" />
+    <item drawable="google_chrome_5" />
+    <item drawable="google_chrome_6" />
+    <item drawable="google_chrome_7" />
+    <item drawable="google_chrome_8" />
+    <item drawable="google_chrome_9" />
+    <item drawable="google_chrome_10" />7
+
+    <category title="Youtube" />
+    <item drawable="youtube_1" />
+    <item drawable="youtube_2" />
+    <item drawable="youtube_3" />
+    <item drawable="youtube_4" />
+    <item drawable="youtube_5" />
+    <item drawable="youtube_6" />
+    <item drawable="youtube_7" />
+    <item drawable="youtube_8" />
+    <item drawable="youtube_9" />
+    <item drawable="youtube_10" />
+    <item drawable="youtube_11" />
+    <item drawable="youtube_12" />
+
+</resources>

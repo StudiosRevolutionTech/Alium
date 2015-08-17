@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <!-- MainActivity Strings -->
+    <string name="app_name">"Alium Lite"</string>
+    <string name="app_long_name">"Alium Lite- Icon Pack"</string>
+    <string name="package_name">"com.studiosrevtech.alium"</string>
+    <string name="theme_description">Alium is a wonderful Icon Pack based in
+                                     Material Design that is the latest style designed by Google for Android.
+                                     \n
+                                     \nIt contains Flat icons with a style of Material Desing and Long Shadows that work very well with enough Custom Launchers. </string>
+
+    <!-- Muzei Stuff -->
+    <string name="artsource_name">"Alium Lite"</string>
+    <string name="artsource_desc">"Wallpapers made by Studios Revolution Tech"</string>
+    <string name="muzei_settings">Muzei Settings</string>
+    <string name="json_file_url">"https://raw.githubusercontent.com/StudiosRevolutionTech/Json_Files/master/wallpaper.json"</string>
+    <!-- Sharing wallpaper from Muzei -->
+    <string name="partone">"My wallpaper for today is "</string>
+    <string name="parttwo">" by "</string>
+    <string name="partthree">" from "</string>
+    <string name="partfour">".\nGet it now at "</string>
+
+    <!-- Developer Account Link -->
+    <string name="play_store_dev_link">https://play.google.com/store/apps/developer?id=Studios+Revolution+Tech</string>
+
+    <!-- Icon Pack designer/owner e-mail -->
+    <string name="email_id">studiosrevtech@email.com</string>
+
+    <!-- Mail subjects for simple e-mail and requests e-mail -->
+    <string name="email_subject">"Alium Lite"</string>
+    <string name="email_request_subject">"Alium Lite - Icon Requests"</string>
+
+    <!-- This are the strings for the cards in the main screen -->
+    <string name="welcome_title">Welcome to Alium</string>
+
+    <string name="play_card_title">Studios Revlution Tech</string>
+    <string name="play_card_content">"I invite you to check my other apps on Play Store and download them."</string>
+
+    <string name="app_one_title">Shadow Theme</string>
+    <string name="app_one_content">"Shadow theme is an Icon Pack designed for Solo Launcher, It contains beautiful icons with Long Shadows."</string>
+    <string name="app_one_package">"com.studios.rev.tech.shadowthemesolo"</string>
+
+    <string name="app_two_title">Alium Pro</string>
+    <string name="app_two_content">"If you are enjoying Alium Lite, i invite you to download the version pro of this icon pack.
+                                    \n<b>It would be a great way to help me and a motivation to create more apps. Thank you.</b>"</string>
+    <string name="app_two_package">"com.studiosrevtech.aliumpro"</string>
+
+
+
+    <!-- Your card in About The App section (In desc you can use html markup)-->
+    <string name="iconpack_designer">Studios Revolution Tech</string>
+    <string name="iconpack_designer_desc">
+        <![CDATA[
+         <b>Studios Revolution Tech</b> is a company dedicated to create Mobile apps thought for the end user.
+         we are a company which creates and develops apps which transform all the aspect of your smartphone Android.
+         <br></br>
+         <br></br>
+
+        This company was created by <b>Hector Franco</b>, i love to develop apps on Android and i am in continue learning in develop apps for
+        mobile platforms, in addition i\'m so interested in design, hope you like this icon pack developed for multi launchers.
+        ]]>
+        </string>
+    <!-- A link to your web page, if you have one -->
+    <string name="dev_link">https://jahirfiquitiva.github.io/me/</string>
+    <string name="dev_gplus_link">"https://plus.google.com/113380931547615323871/posts"</string>
+
+    <!-- Feature picture that appears above the description -->
+    <string name="theme_feature">icons_banner</string>
+
+    <!-- Previews Pictures Names -->
+    <string name="theme_preview1">preview1</string>
+    <string name="theme_preview2">preview2</string>
+
+    <!-- Tabs Names list -->
+    <string-array name="tabs">
+        <item>LATEST</item>
+        <item>SYSTEM</item>
+        <item>GOOGLE APPS</item>
+        <item>GAMES</item>
+        <item>ALL</item>
+        <item>DRAWERS</item>
+    </string-array>
+
+    <!-- Strings for Wallpapers and Requests -->
+    <string name="request_save_location">"/AliumLite/Requests/"</string>
+    <string name="walls_save_location">"/AliumLite/Wallpapers/"</string>
+    <string name="walls_prefix_name">"AliumLite_"</string>
+
+    <!-- Messages shown when using LicenseChecker -->
+    <string name="license_failed">"You are not downloading PaperBoard from Google Play Store. You have two options only:"</string>
+    <string name="license_success">"Thank you for downloading Alium . If you like it, don't forget to rate and write a review at Google Play Store."</string>
+
+    <!-- Texts you don't want to get when user downloads that wallpapers -->
+    <!-- Examples: the url of the wall, and prefixes, etc. -->
+    <!-- It replaces the texts in the order as shown. I.e. url is
+    https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/Lines/Circles/Text/text/whatever/WallpaperName.png"
+     it will delete texts in this order:
+     1. https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/
+     2. Lines
+     3. Circles
+     4. Text
+     5. text
+     6. whatever
+     7. (Empty text won't replace anything else).
+     And at the end the only text that will stay is "WallpaperName.png" which will be the final name of downloaded file.
+     -->
+    <string name="replace_one">"https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/"</string>
+    <string name="replace_two">"Lines"</string>
+    <string name="replace_three">"Circles"</string>
+    <string name="replace_four">"Text"</string>
+    <string name="replace_five">"text"</string>
+    <string name="replace_six">"whatever"</string>
+    <string name="replace_seven">""</string>
+
+    <!-- These things are needed for some launchers (Feel free to edit, though is not needed) -->
+    <string name="theme_title">@string/app_name</string>
+    <string name="theme_name">@string/theme_title</string>
+    <string name="developer_name">@string/iconpack_designer</string>
+    <string name="developerName">@string/developer_name</string>
+    <string name="theme_author">@string/developer_name</string>
+    <string name="authorName">@string/developer_name</string>
+    <string name="authorLink">@string/dev_link</string>
+    <string name="theme_info">@string/theme_description</string>
+    <string name="theme_ad_msg">@string/theme_description</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+
+    <string name="version_premium">Icon Request - Version Premium</string>
+    <string name="version_premium_desc">This feature is available only in the Version Premium
+                                        \n
+                                        \nPlease support my work downloading Alium Pro.<b>Thank you.</b></string>
+
+
+    <string name="purchase">PURCHASE</string>
+    <string name="Version_Pro">Version Pro</string>
+
+</resources>
