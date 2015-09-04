@@ -321,8 +321,8 @@
                         android:id="@+id/iconsbanner3"
                         android:layout_width="fill_parent"
                         android:layout_height="100dp"
-                        android:src="@drawable/wallpaper_02"
-                        android:scaleType="centerCrop"
+                        android:src="@drawable/alium_pro_banner"
+                        android:scaleType="fitXY"
                         android:visibility="visible"/>
 
 
