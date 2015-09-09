@@ -15,7 +15,7 @@ public class SocialFragment extends Fragment {
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        ViewGroup root = (ViewGroup) inflater.inflate(R.layout.section_credits, container, false);
+        ViewGroup root = (ViewGroup) inflater.inflate(R.layout.social_fragment, container, false);
 
 
         return root;
