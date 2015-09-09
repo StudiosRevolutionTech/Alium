@@ -172,6 +172,7 @@
                 ripple:mrl_rippleOverlay="true" >
 
             <LinearLayout
+                android:id="@+id/google_community"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="horizontal"
@@ -238,6 +239,7 @@
 
 
                      <LinearLayout
+                         android:id="@+id/gemail"
                          android:layout_width="match_parent"
                          android:layout_height="wrap_content"
                          android:orientation="horizontal"
