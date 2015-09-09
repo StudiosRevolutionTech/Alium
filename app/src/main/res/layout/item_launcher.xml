@@ -31,15 +31,18 @@
             android:layout_width="wrap_content"
             android:layout_height="fill_parent"
             android:textColor="@color/dark_grey"
-            android:textSize="@dimen/text_med" />
+            android:textSize="@dimen/text_med"
+            android:text="nada"/>
 
         <TextView
             android:id="@+id/launcherinstalled"
             android:layout_width="wrap_content"
             android:layout_height="fill_parent"
             android:layout_marginTop="@dimen/cards_elevation"
-            android:textSize="@dimen/text_ultrasmall" />
+            android:textSize="@dimen/text_ultrasmall"
+            android:text="nada"/>
 
     </LinearLayout>
+
 
 </LinearLayout>

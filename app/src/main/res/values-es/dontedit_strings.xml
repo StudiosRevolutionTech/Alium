@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <!-- List Of Drawer Sections -->
-    <string name="section_one">Home</string>
-    <string name="section_two">Icons</string>
-    <string name="section_three">Apply</string>
+    <string name="section_one">Incio</string>
+    <string name="section_two">Iconos</string>
+    <string name="section_three">Aplicar</string>
     <string name="section_four">Wallpapers</string>
-    <string name="section_five">Icon Request</string>
-    <string name="section_six">About The App</string>
+    <string name="section_five">Petición de iconos</string>
+    <string name="section_six">Creditos</string>
+    <string name="section_seven">Sigueme</string>
 
     <!-- Wallpapers Activity -->
     <string name="title_activity_detailed_wallpaper">Fondo de pantalla detallado</string>

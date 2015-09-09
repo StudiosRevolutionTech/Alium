@@ -136,7 +136,7 @@
                         android:id="@+id/iconsbanner1"
                         android:layout_width="fill_parent"
                         android:layout_height="100dp"
-                        android:src="@drawable/studios_rev_large"
+                        android:src="@drawable/logo_play_store"
                         android:scaleType="fitXY"
 
                         android:visibility="visible"/>

@@ -54,6 +54,7 @@ public class MainActivity extends AppCompatActivity {
     private String thaRequest;
     private String thaCredits;
     public String version;
+    public String thaSocial;
     private int currentItem = -1;
     private boolean firstrun, enable_features, a;
     private Preferences mPrefs;
@@ -92,6 +93,7 @@ public class MainActivity extends AppCompatActivity {
         thaWalls = getResources().getString(R.string.section_four);
         thaRequest = getResources().getString(R.string.section_five);
         thaCredits = getResources().getString(R.string.section_six);
+        thaSocial = getResources().getString(R.string.section_seven);
 
         AccountHeader headerResult = new AccountHeaderBuilder()
                 .withActivity(this)
@@ -113,7 +115,9 @@ public class MainActivity extends AppCompatActivity {
                         new PrimaryDrawerItem().withName(thaPreviews).withIcon(GoogleMaterial.Icon.gmd_palette).withIdentifier(2),
                         new PrimaryDrawerItem().withName(thaApply).withIcon(GoogleMaterial.Icon.gmd_open_in_browser).withIdentifier(3),
                         new DividerDrawerItem(),
-                        new SecondaryDrawerItem().withName(thaCredits).withIdentifier(6)
+                        new PrimaryDrawerItem().withName(thaSocial).withIcon(GoogleMaterial.Icon.gmd_people).withIdentifier(6),
+                        new PrimaryDrawerItem().withName(thaCredits).withIcon(GoogleMaterial.Icon.gmd_dashboard).withIdentifier(7)
+
                 )
                 .withOnDrawerItemClickListener(new Drawer.OnDrawerItemClickListener() {
                     @Override
@@ -142,7 +146,11 @@ public class MainActivity extends AppCompatActivity {
                                      versionPremium();
                                     break;
                                 case 6:
-                                    switchFragment(6, thaCredits, "Credits");
+                                    switchFragment(6, thaSocial, "Social");
+                                    break;
+
+                                case 7:
+                                    switchFragment(7, thaCredits, "Credits");
                                     break;
                             }
 
