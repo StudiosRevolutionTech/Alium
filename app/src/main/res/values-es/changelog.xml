@@ -9,25 +9,25 @@
     </string-array>
 
     <string-array name="important">
-        <item>The most important:</item>
-        <item>Added the new section "Social" ehre you can follow me on my social networks.</item>
+        <item>Lo mas importante:</item>
+        <item>Añadidia la sección "Social" donde puedes seguirme en mis redes sociales</item>
         <item>Big code, layouts and performance improvements.</item>
     </string-array>
 
     <string-array name="newstuff">
-        <item>New</item>
-        <item>Updated to Support Library 22.2.</item>
-        <item>ActionBarActivity replaced with AppCompatActivity.</item>
+        <item>Nuevo</item>
+        <item>Actualizado a Support Library 22.2.</item>
+        <item>ActionBarActivity reemplazada con AppCompatActivity.</item>
     </string-array>
 
     <string-array name="improvements">
-        <item>Improvements</item>
-        <item>Some minor layout improvements.</item>
+        <item>Mejoras</item>
+        <item>Algunas mejoras en los Layout de la App.</item>
     </string-array>
 
     <string-array name="fixes">
-        <item>Fixes</item>
-        <item>Fixed issue with Toolbar on pre-lollipop devices.</item>
+        <item>Arreglos</item>
+        <item>Arreglado problema con Toolbar en equipos pre-lollipop.</item>
     </string-array>
 
 </resources>

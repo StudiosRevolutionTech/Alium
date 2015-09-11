@@ -105,8 +105,8 @@
                 android:layout_margin="@dimen/cards_text_margin">
 
                 <ImageView
-                    android:layout_width="112px"
-                    android:layout_height="112px"
+                    android:layout_width="100px"
+                    android:layout_height="100px"
                     android:src="@drawable/google_now_2"/>
 
 
@@ -143,8 +143,8 @@
 
 
                     <ImageView
-                        android:layout_width="112px"
-                        android:layout_height="112px"
+                        android:layout_width="100px"
+                        android:layout_height="100px"
                         android:src="@drawable/facebook_1"/>
 
 
@@ -178,8 +178,8 @@
                 android:orientation="horizontal"
                 android:layout_margin="@dimen/cards_text_margin">
                 <ImageView
-                    android:layout_width="112px"
-                    android:layout_height="112px"
+                    android:layout_width="100px"
+                    android:layout_height="100px"
                     android:src="@drawable/google_now_4"/>
 
 
@@ -246,8 +246,8 @@
                          android:layout_margin="@dimen/cards_text_margin">
 
                          <ImageView
-                             android:layout_width="112px"
-                             android:layout_height="112px"
+                             android:layout_width="100px"
+                             android:layout_height="100px"
                              android:src="@drawable/gmail_1"/>
 
 
